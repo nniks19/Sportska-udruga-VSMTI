@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <Funkcija id="1" nazivfunkcije="Likvidator"></Funkcija>
+  <Funkcija id="2" nazivfunkcije="Predsjednik"></Funkcija>
+  <Funkcija id="3" nazivfunkcije="Podpredsjednik"></Funkcija>
+  <Funkcija id="4" nazivfunkcije="Tajnik"></Funkcija>
+  <Funkcija id="5" nazivfunkcije="Nadzorni Odbor"></Funkcija>
+  <Funkcija id="6" nazivfunkcije="Izvrsni Odbor"></Funkcija>
+</dataset>

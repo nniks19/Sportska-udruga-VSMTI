@@ -1,0 +1,3 @@
+﻿  Suvmain.cpp
+C:\Users\mecha\Desktop\Sportska udruga VSMTI\Suvmain.cpp(87): warning C4715: 'sortiranje_prezimena_pa_imena::operator()': not all control paths return a value
+  Sportska udruga VSMTI.vcxproj -> C:\Users\mecha\Desktop\Sportska udruga VSMTI\x64\Debug\Sportska udruga VSMTI.exe

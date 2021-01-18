@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <Clan id="2" prezime="Bot" ime="Dominik" datumrodenja="1.7.1998" email="Bot.Dominik@vsmti.hr" sport="1,4" funkcije="3,6" placeneclanarine="2020"/>
+    <Clan id="1" prezime="Hajba" ime="Marko" datumrodenja="10.1.1990" email="Marko.Hajba@vsmti.hr" sport="1,2,3,4,5" funkcije="4" placeneclanarine="2020"/>
+    <Clan id="50" prezime="Knezevic" ime="Josip" datumrodenja="15.6.1988" email="Knezevic.Josip@vsmti.hr" sport="5,3,1" funkcije="2,6" placeneclanarine="2020"/>
+    <Clan id="11" prezime="Paraga" ime="Lucija" datumrodenja="18.11.1996" email="Paraga.Lucija@vsmti.hr" sport="2,5" funkcije="6" placeneclanarine="2020"/>
+    <Clan id="88" prezime="Cirikovic" ime="Enes" datumrodenja="12.3.1986" email="Cirikovic.Enes@vsmti.hr" sport="4" funkcije="6,5" placeneclanarine="2020"/>
+    <Clan id="22" prezime="Tubic" ime="Dejan" datumrodenja="5.2.1998" email="Tubic.Dejan@vsmti.hr" sport="1" funkcije="5,6" placeneclanarine="2020"/>
+    <Clan id="9" prezime="Kiralj" ime="Dragica" datumrodenja="1.1.1972" email="Kiralj.Dragica@vsmti.hr" sport="" funkcije="1" placeneclanarine="2017"/>
+    <Clan id="41" prezime="Hedi" ime="Ivan" datumrodenja="10.4.1992" email="Hedi.Ivan@vsmti.hr" sport="1,3,4,5" funkcije="" placeneclanarine="2020"/>
+    <Clan id="21" prezime="Vuk" ime="Damir" datumrodenja="10.6.1958" email="Vuk.Damir@vsmti.hr" sport="" funkcije="" placeneclanarine="2020"/>
+    <Clan id="85" prezime="Ribic" ime="Damir" datumrodenja="12.4.1983" email="ribic.damir@vsmti.hr" sport="1,2,3,4" funkcije="5" placeneclanarine="2020"/>
+</dataset>

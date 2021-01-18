@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <Sport id="1" nazivsporta="Nogomet"/>
+    <Sport id="2" nazivsporta="Rukomet"/>
+    <Sport id="3" nazivsporta="Badminton"/>
+    <Sport id="4" nazivsporta="Kosarka"/>
+    <Sport id="5" nazivsporta="Tenis"/>
+    <Sport id="6" nazivsporta="Plivanje"/>
+</dataset>
